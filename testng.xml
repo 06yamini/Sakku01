@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.abc.tt.Fetchdata"/>
+      <class name="org.automation.testcases.Loginsenario"/>
+      <class name="org.abc.tt.Browserhandler"/>
+      <class name="testngdemo.DemoTestNG"/>
+      <class name="org.abc.tt.Waitswebdriver"/>
+      <class name="sakkujava2.DemoTestNG7"/>
+      <class name="sakkujava2.DemoTestNG8"/>
+      <class name="org.automation.testcases.Signupsenario"/>
+      <class name="sakkujava2.DemoTestNG5"/>
+      <class name="sakkujava2.DemoTestNG6"/>
+      <class name="sakkujava2.DemoTestNG3"/>
+      <class name="testngdemo.DemoTestNG2"/>
+      <class name="sakkujava2.DemoTestNG4"/>
+      <class name="testngdemo.DemoTestNG3"/>
+      <class name="sakkujava2.DemoTestNG2"/>
+      <class name="testngdemo.DemoTestNG6"/>
+      <class name="testngdemo.DemoTestNG7"/>
+      <class name="testngdemo.DemoTestNG4"/>
+      <class name="testngdemo.DemoTestNG5"/>
+      <class name="testngdemo.DemoTestNG8"/>
+      <class name="sakkujava2.DemoTestNG9"/>
+      <class name="testngdemo.DemoTestNG9"/>
+      <class name="org.abc.tt.OrgABCinsta"/>
+      <class name="org.abc.tt.Handlerkeymouse"/>
+      <class name="sakkujava2.DemoTestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
